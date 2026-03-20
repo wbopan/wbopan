@@ -1,6 +1,6 @@
 ### Hi, I'm Wenbo
 
-PhD student at City University of Hong Kong, advised by Prof. Xiaohua Jia.
+PhD student at City University of Hong Kong.
 
 My research focuses on NLP, LLM-based agents, and memory systems for autonomous agents. I'm currently exploring how to evolve programmatic memory structures that let LLM agents organize knowledge autonomously.
 
